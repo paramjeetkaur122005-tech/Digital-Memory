@@ -8,11 +8,10 @@ A modern and secure **MERN Stack Journaling Application** built to help users ca
 
 
 
-```md
 <img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/1e68ef8b-20f3-4680-8185-a3cb9ea34cec" />
 <img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/0abe3c46-7e14-41dc-ae3c-4a0a95559bdc" />
 
-```
+
 
 ---
 
