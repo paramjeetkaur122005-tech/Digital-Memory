@@ -1,4 +1,4 @@
-# 📓 Digital Diary
+# 📓 Digital Memory
 
 A modern and secure **MERN Stack Journaling Application** built to help users capture thoughts, track emotions, and preserve memories in a clean, distraction-free environment.
 
